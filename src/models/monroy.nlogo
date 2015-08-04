@@ -1054,6 +1054,16 @@ NIL
 NIL
 1
 
+TEXTBOX
+608
+656
+978
+691
+Note: Plots will start appearing once the simulation reaches \"plot_year\" as set at left.
+11
+0.0
+1
+
 @#$#@#$#@
 ## CREDITS AND REFERENCES
 
